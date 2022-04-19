@@ -17,9 +17,9 @@ O projeto consiste em fazer consultas em notícias sobre tecnologia. Para isso f
 
 ## Rodando o Projeto Localmente
 
-1° `git clone ` - Clone o repositório para sua máquina <br />
+1° `git clone https://github.com/lucasam1992/project-tech-news.git` - Clone o repositório para sua máquina <br />
 
-2° `cd` - Entre na pasta do repositório clonado <br />
+2° `cd project-tech-news` - Entre na pasta do repositório clonado <br />
 
 3° `python3 -m venv .venv && source .venv/bin/activate` - Crie e ative o ambiente virtual para o projeto <br />
 
